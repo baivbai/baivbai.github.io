@@ -1,0 +1,27 @@
+<html>
+<body>
+请输入账号密码
+<form>
+	*用户名：
+	<input id="i1"type="text">
+	<br/>
+	&#160;*密码:
+	<input id="i2"type="pass"value="你猜">
+	<br/>
+	<input id="i3"type="button"value="登录"onclick="tl()">
+</form>
+<style type="text/css">
+#i1{
+margin:10px;}
+#i2{
+color:red;
+margin:10px;}
+#i3{
+margin-top:20px;
+margin-left:100px;
+width:120px;
+height:30px;}
+</style>
+<img src="file:C:\Users\白白\Desktop\2210535P2-0.jpg"width="451"height="300">
+</body>
+</html>
